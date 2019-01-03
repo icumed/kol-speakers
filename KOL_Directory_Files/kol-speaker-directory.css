@@ -1,4 +1,4 @@
-﻿@charset "UTF-8";
+@charset "UTF-8";
 /* CSS Document */
 
 body {
@@ -248,7 +248,7 @@ td.requestTable
     border: solid 2px black;
     background-color: white;
 }
-.redText 
+.redText
 {
 	color: #F00;
 }
@@ -260,8 +260,8 @@ td.requestTable
 }
 
 .clearFix {
-	clear: both; 
-}  
+	clear: both;
+}
 
 #wrapper {
 	width: 1000px;
@@ -286,7 +286,7 @@ td.requestTable
   margin: 0px;
   padding: 0px;
   border-top: solid 5px #0099DB;
-  background-image:url(Images/kol-speaker-directory-header.png);
+  background-image:url(http://apps.icumed.com/MarketingRequestForms/Images/kol-speaker-directory-header.png);
 }
 
 #ArrowLeft{
